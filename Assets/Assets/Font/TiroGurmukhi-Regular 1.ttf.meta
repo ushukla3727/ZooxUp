@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 47aa1f4a0198a6d878b0f21a8c967a63
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tiro Gurmukhi
+  fontNames:
+  - Tiro Gurmukhi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3931eb0c4e5ca8773bb04a76f9b0b15e, type: 3}
+  - {fileID: 12800000, guid: 42eb905d484ed84f5b69533bff43f4e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
